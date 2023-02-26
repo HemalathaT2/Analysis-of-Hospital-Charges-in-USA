@@ -58,13 +58,13 @@ To answer that question is necesary to clarify:
 
 ![by_patient](assets/by_patient.png)
 
-🤕 The three most expensive states are:
+The three most expensive states are:
 
 1. **Alaska** with $550.76
 2. **Hawaii** with $503.78
 3. **Wyoming** with $446.09  
 
-🤕 The three most cheapest states are:
+The three most cheapest states are:
 
 1. **Delaware** with $215.84
 2. **Kentucky** with $226.93
