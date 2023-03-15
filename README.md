@@ -109,7 +109,7 @@ As a hypotesis, the mosts expensive hospitals share two chareacteristics:
 
 ![expensive_hospitals](assets/expensive_hospitals.jpg)
 
-4. Wich is the DRG most expensive and the cheapest one?
-5. Wich is the percentage received for hospitals according to their Average covered charges?
+4. Which is the most expensive and the cheapest DRG?
+5. What is the percentage received for hospitals according to their Average covered charges?
 6. Amount received depends on the number of patients or the DRG?
 7. How far are the expensive hospitals from the cheapest ones?
